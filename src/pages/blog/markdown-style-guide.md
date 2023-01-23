@@ -1,11 +1,10 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Markdown Style Guide
-description: Here is a sample of some basic Markdown syntax that can be used
-  when writing Markdown content in Astro.
+title: Primer Post
+description: Este es un primer Post de Preba
 pubDate: Jul 01 2022
 heroImage: /placeholder-hero.jpg
-publishDate: 2023-01-23T19:01:30.879Z
+publishDate: 2023-01-23T19:03:36.147Z
 heroImag: /assets/comedor.png
 ---
 # E﻿sto es una prueba
